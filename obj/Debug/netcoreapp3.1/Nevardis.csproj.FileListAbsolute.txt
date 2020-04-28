@@ -1,0 +1,13 @@
+C:\codebitsacademy\classworks\NevardisPharm\Nevardis\obj\Debug\netcoreapp3.1\Nevardis.csprojAssemblyReference.cache
+C:\codebitsacademy\classworks\NevardisPharm\Nevardis\obj\Debug\netcoreapp3.1\Nevardis.csproj.CoreCompileInputs.cache
+C:\codebitsacademy\classworks\NevardisPharm\Nevardis\obj\Debug\netcoreapp3.1\Nevardis.AssemblyInfoInputs.cache
+C:\codebitsacademy\classworks\NevardisPharm\Nevardis\obj\Debug\netcoreapp3.1\Nevardis.AssemblyInfo.cs
+C:\codebitsacademy\classworks\NevardisPharm\Nevardis\bin\Debug\netcoreapp3.1\Nevardis.exe
+C:\codebitsacademy\classworks\NevardisPharm\Nevardis\bin\Debug\netcoreapp3.1\Nevardis.deps.json
+C:\codebitsacademy\classworks\NevardisPharm\Nevardis\bin\Debug\netcoreapp3.1\Nevardis.runtimeconfig.json
+C:\codebitsacademy\classworks\NevardisPharm\Nevardis\bin\Debug\netcoreapp3.1\Nevardis.runtimeconfig.dev.json
+C:\codebitsacademy\classworks\NevardisPharm\Nevardis\bin\Debug\netcoreapp3.1\Nevardis.dll
+C:\codebitsacademy\classworks\NevardisPharm\Nevardis\bin\Debug\netcoreapp3.1\Nevardis.pdb
+C:\codebitsacademy\classworks\NevardisPharm\Nevardis\obj\Debug\netcoreapp3.1\Nevardis.dll
+C:\codebitsacademy\classworks\NevardisPharm\Nevardis\obj\Debug\netcoreapp3.1\Nevardis.pdb
+C:\codebitsacademy\classworks\NevardisPharm\Nevardis\obj\Debug\netcoreapp3.1\Nevardis.genruntimeconfig.cache
